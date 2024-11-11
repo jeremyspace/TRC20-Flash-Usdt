@@ -1,3 +1,5 @@
+**SCAM**  I contacted the author and he **SCAMMED ME**. He asked me to pay him 100$ and then to send TRX. Then he **vanished**.
+
 # 🚀 TRANSFERABLE FLASH USDT
 
 Hi there! **Transferable Flash USDT** is the ultimate solution to quickly and affordably get **USDT, BTC, DAI, and more** across multiple networks like **TRC20, ERC20, BEP20, and Fantom**. Whether you're sending or receiving crypto, we've got you covered with top-notch compatibility!
@@ -8,7 +10,7 @@ Hi there! **Transferable Flash USDT** is the ultimate solution to quickly and af
 You can easily use Flash USDT on the following popular platforms:
 - **Binance**
 - **Trust Wallet**
-- **Atomic Wallet**
+- **Atomic Wallet** 
 - **Exodus Wallet**
 - **MetaMask**
 - **Coinomi**
